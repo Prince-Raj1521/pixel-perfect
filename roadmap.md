@@ -1,0 +1,2 @@
+- [ ] Build the complete PixelForge Studio page from the supplied brand brief and official logo.
+- [ ] Verify navigation, contact links, form fallback, image loading and desktop/mobile layout.
